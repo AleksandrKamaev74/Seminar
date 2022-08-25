@@ -1,0 +1,15 @@
+D:\Recursion3\Task68\bin\Debug\net6.0\Task68.exe
+D:\Recursion3\Task68\bin\Debug\net6.0\Task68.deps.json
+D:\Recursion3\Task68\bin\Debug\net6.0\Task68.runtimeconfig.json
+D:\Recursion3\Task68\bin\Debug\net6.0\Task68.dll
+D:\Recursion3\Task68\bin\Debug\net6.0\Task68.pdb
+D:\Recursion3\Task68\obj\Debug\net6.0\Task68.csproj.AssemblyReference.cache
+D:\Recursion3\Task68\obj\Debug\net6.0\Task68.GeneratedMSBuildEditorConfig.editorconfig
+D:\Recursion3\Task68\obj\Debug\net6.0\Task68.AssemblyInfoInputs.cache
+D:\Recursion3\Task68\obj\Debug\net6.0\Task68.AssemblyInfo.cs
+D:\Recursion3\Task68\obj\Debug\net6.0\Task68.csproj.CoreCompileInputs.cache
+D:\Recursion3\Task68\obj\Debug\net6.0\Task68.dll
+D:\Recursion3\Task68\obj\Debug\net6.0\refint\Task68.dll
+D:\Recursion3\Task68\obj\Debug\net6.0\Task68.pdb
+D:\Recursion3\Task68\obj\Debug\net6.0\Task68.genruntimeconfig.cache
+D:\Recursion3\Task68\obj\Debug\net6.0\ref\Task68.dll
