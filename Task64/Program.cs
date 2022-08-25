@@ -6,7 +6,7 @@ int N = InputNumbers("Введите число N=");
 Console.WriteLine(PrintNumbers(M, N));
 
 //Вывод натуральных чисел от M до N
-String PrintNumbers(int M, int N)
+string PrintNumbers(int M, int N)
 {
     string result = String.Empty; //пустая строка
     for (int i = M; i <= N; i = i + 1)
